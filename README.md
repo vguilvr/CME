@@ -1,3 +1,2 @@
-# CME
+# Creative Media Enterpreunership
 Hello World!
-Testing branches :)
